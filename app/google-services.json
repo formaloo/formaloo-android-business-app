@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102853928074",
+    "project_id": "business-355815",
+    "storage_bucket": "business-355815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102853928074:android:618fd8c4b03881c8c1f973",
+        "android_client_info": {
+          "package_name": "co.idearun.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102853928074-qftidtlnm444bd9itrh5n31qv4b1lk85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs0rjR-o2uj2PU45Klv0UWvm4lLvlVdW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102853928074-qftidtlnm444bd9itrh5n31qv4b1lk85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
